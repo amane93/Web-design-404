@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+header {
+    position: absolute;
+    height: 100px;
+    left:50px;
+    top: 25px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: Inconsolata, monospace;
+}
+
+img {
+
+    height: 65%;
+    position: absolute;
+    left: 80px;
+    top: 150px;
+   
+}
+
+.para1{
+    position: absolute;
+    top: 150px;
+    left: 800px;
+    width: 40%;
+    font-size: 200%;
+    font-style: normal;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.para2{
+    position: absolute;
+    top: 350px;
+    left: 800px;
+    width: 25%;
+    font-size: 200%;
+    font-style: normal;
+    font-family: monospace;
+}
+
+button {
+    position: absolute;
+    top: 500px;
+    left: 800px;
+    width: 200px;
+    height: 60px;
+    font-size: 100%;
+    font-style: normal;
+    font-family: monospace;
+    background: black;
+    color: white;
+}
+
+button:hover {background-color: #9099eb; color: black;}
+
+/*========================================================== */
+footer {
+    position: absolute;
+    top: 700px;
+    left: 670px;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 150%;
+    font-style: normal;
+}
